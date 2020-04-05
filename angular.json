@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "emart-fontend"
+    }
+  },
+  "defaultProject": "emart-fontend",
+  "cli": {
+    "analytics": "94c79212-44d9-47d3-af26-7afb9e2066e7"
+  }
 }
